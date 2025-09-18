@@ -1,0 +1,4 @@
+com\example\wifi\NativeWifiScanner$WifiScannerLib.class
+com\example\wifi\NativeWifiScanner.class
+com\example\wifi\PlatformUtils.class
+com\example\wifi\WifiNetwork.class
